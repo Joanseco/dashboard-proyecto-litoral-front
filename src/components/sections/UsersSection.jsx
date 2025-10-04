@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_BASE_URL = 'https://dashboard-backend-emc4.onrender.com/api/';
+const API_BASE_URL = 'https://dashboard-backend-emc4.onrender.com/api';
 
 const UsersSection = () => {
     // Estados principales
