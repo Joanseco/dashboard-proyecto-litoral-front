@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_BASE_URL = 'https://dashboard-proyecto-litoral-backend.onrender.com/api';
+const API_BASE_URL = 'https://dashboard-backend-emc4.onrender.com/api/';
 
 const SalesSection = () => {
     // 1. Estados para la data, carga y error

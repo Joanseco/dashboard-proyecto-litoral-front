@@ -6,7 +6,7 @@ import {
 import { Users, TrendingUp, DollarSign, ShoppingCart } from "lucide-react";
 import StatsCard from "../ui/StatsCard";
 
-const API_BASE_URL = "https://dashboard-proyecto-litoral-backend.onrender.com/api";
+const API_BASE_URL = "https://dashboard-backend-emc4.onrender.com/api/";
 const PIE_COLORS = ['#8b5cf6', '#06b6d4', '#10b981', '#f59e0b']; // Colores para el gráfico de pastel
 
 // Función auxiliar para obtener datos de un endpoint
